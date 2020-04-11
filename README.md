@@ -11,13 +11,23 @@ AKA Random Fun Generator
 
 ### Project Description
 
-The user can press a button that will return a dad joke, a random fact, song, etc.
+The user can spin a wheel that will return a dad joke, a random fact, song, etc.
 The user can also enter their birthdate and receive a horoscope or something related to their date of birth.
+
+### Project Goal
+
+A lighthearted random fun generator to entertain people in these trying times.
+
+### Target Audience
+
+Anyone who wants to be entertained or is bored due to quarantine.
 
 ### APIs to be used
 
 - Dad jokes
-- TBD
+- cat gif
+- horoscope/astrology (requires birthdate input)
+- pirate translator (requires user input of what they want translated)
 
 ### Rough breakdown of tasks
 
