@@ -1,1 +1,52 @@
 
+
+
+/* adding style to the jumbotron */
+.jumbotron {
+    background: rgba(0, 255, 179, 0.473);
+    width: 100%;
+    height: 80px;
+    padding: 60px 0px 120px 0px;
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+    color: rgb(63, 0, 99);
+}
+
+/* background image */
+body {
+	background: url(../images/bluebg.jpg);
+}
+
+/* style for the menu to the left */
+#menu {
+    background: rgba(0, 255, 179, 0.473);
+    border: solid 2px;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+}
+
+/* style for the menu to the right */
+#menu-right {
+    background: rgba(0, 255, 179, 0.473);
+    border: solid 2px;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+}
+
+/* style for the results */
+#results {
+    background: rgba(0, 255, 179, 0.473);
+    border: solid 2px;
+    text-align: center;
+}
+
+/* style for buttons */
+.btn {
+    margin: 20px;
+}
+
+/* possible style change? can we add an id in javascript when a certain button is pushed that will change this? */
+
+.test {
+    background: green;
+}
