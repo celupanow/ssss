@@ -11,8 +11,8 @@ AKA Random Fun Generator
 
 ### Project Description
 
-The user can spin a wheel that will return a dad joke, a random fact, song, etc.
-The user can also enter their birthdate and receive a horoscope or something related to their date of birth.
+The user can spin a wheel that will return a dad joke, a cat gif, etc.
+The user can also enter a phrase to be translated into pirate speech.
 
 ### Project Goal
 
@@ -26,7 +26,6 @@ Anyone who wants to be entertained or is bored due to quarantine.
 
 - Dad jokes
 - cat gif
-- horoscope/astrology (requires birthdate input)
 - pirate translator (requires user input of what they want translated)
 
 ### Rough breakdown of tasks
