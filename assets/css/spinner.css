@@ -1,30 +1,51 @@
+/* background image */
+body {
+    background: url(../images/papyrus.png);
+}
+
+/* text formatting for the wheel and the results */
 text{
     font-family:Helvetica, Arial, sans-serif;
     font-size:11px;
     pointer-events:none;
 }
+
+/* formatting for the wheel */
 #chart{
-    position:absolute;
-    width:500px;
-    height:500px;
-    top:0;
-    left:0;
+
+    margin-left: 40px;
+    background-color: white;
 }
-#question{
-    position: absolute;
-    width:400px;
-    height:500px;
-    top:0;
-    left:520px;
-}
+
+/* formatting for the results */
 #question h1{
     font-size: 50px;
     font-weight: bold;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    position: absolute;
-    padding: 0;
-    margin: 0;
-    top:50%;
+    margin: 250px 0px 0px 60px;
+    padding: 10px;
     -webkit-transform:translate(0,-50%);
             transform:translate(0,-50%);
+}
+
+/* formatting for the results grid beneath the wheel */
+.results {
+    border-top: solid 5px;
+    border-color: rgb(255, 127, 14);
+    margin-top: 20px;
+    background-color: white;
+}
+
+/* formatting for the title */
+.title {
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(31, 119, 180);
+}
+
+/* formatting for the entire container, holds wheel and results */
+.container {
+    background-color: white;
+    margin-top: 50px;
+    border: solid 5px;
+    border-color: rgb(255, 127, 14);
 }
