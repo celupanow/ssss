@@ -1,25 +1,60 @@
 <!DOCTYPE html>
-<<<<<<< HEAD
-<html lang="en">
-<head>
-
-</body>
-</html>
-=======
 <html>
+
 <head>
     <meta charset="utf-8">
+    <!-- link to Materialize CSS-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <!-- link to custom CSS -->
     <link rel="stylesheet" type="text/css" href="assets/css/spinner.css">
-    <title>Wheel of Fortune Bingo</title>
+    <!-- link to Google Font for title -->
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
+    <title>Stay Safe, Stay Sane</title>
 </head>
-  
+
 <body>
-    <div id="chart"></div>
-    <div id="question">
-        <h1></h1>
+    <!--main container class-->
+    <div class="container">
+        <!--row that holds the title-->
+        <div class="row">
+            <!--column that spans the container for the title-->
+            <div class="col l12 title">
+                <h1 class="center-align">Stay Safe, Stay Sane</h1>
+            </div>
+        </div>
+        <!--row that holds the wheel and initial results-->
+        <div class="row">
+            <!--columnn that holds the wheel-->
+            <div class="col l6 wheel">
+                <div id="chart"></div>
+            </div>
+            <!--column that holds the results-->
+            <div class="col l6 question">
+                <div id="question">
+                    <h1></h1>
+                </div>
+            </div>
+        </div>
+        <!-- row that holds the appended results-->
+        <div class="row">
+            <div class="col l3 results">
+                <p>this is where your results will go</p>
+            </div>
+            <div class="col l3 results">
+                <p>more results</p>
+            </div>
+            <div class="col l3 results">
+                <p>more results<p>
+            </div>
+            <div class="col l3 results">
+                <p>more results</p>
+            </div>
+
+        </div>
     </div>
+    <!--links to the javascript-->
     <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
     <script type="text/javascript" src="assets/javascript/spinner.js"></script>
 </body>
+
 </html>
->>>>>>> 911066421474562d6bb6a6798b73372ea56d42f0
