@@ -52,3 +52,8 @@ text{
 h6 {
     color: rgb(31,119,180);
 }
+
+#capn {
+    height: 300px;
+    width: 300px;
+}
