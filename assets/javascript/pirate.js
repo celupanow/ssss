@@ -22,6 +22,7 @@ function pirateTranslation() {
 		} else {
 			//otherwise, the form is hidden again
 			$("#pirate-form").hide();
+			$("#capn").hide();
 			//and the error disappears
 			$("#error").empty();
 
