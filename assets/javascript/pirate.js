@@ -6,6 +6,7 @@ function pirateTranslation() {
 
 	//displays the pirate input form that is normally hidden in the html
 	$("#pirate-form").show();
+	$("#capn").show();
 
 	$("#button").on("click", function(event) {
 		event.preventDefault();

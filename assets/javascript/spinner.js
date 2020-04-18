@@ -1,6 +1,7 @@
 
 //hides the pirate input form
 $("#pirate-form").hide();
+$("#capn").hide();
 
 var padding = {top:20, right:40, bottom:0, left:0},
             w = 500 - padding.left - padding.right,
