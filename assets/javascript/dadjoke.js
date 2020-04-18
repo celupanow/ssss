@@ -1,6 +1,7 @@
 
-$('#dad-joke').click(function() {
-    $('.joke-box').empty();
+
+function dadJoke() {
+    $('#question').empty();
     var setup = {
         'url': 'https://icanhazdadjoke.com',
         'method': 'GET',
@@ -12,6 +13,6 @@ $('#dad-joke').click(function() {
     $.ajax(setup).done(function (response) {
         console.log(response);
 
-    $('.joke-box').append(response);
+    $('#question').append(response);
     });
-});
+}
