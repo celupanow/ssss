@@ -24,7 +24,7 @@
         </div>
         <!--row that holds the wheel and initial results-->
         <div class="row">
-            <!--columnn that holds the wheel-->
+            <!--column that holds the wheel-->
             <div class="col l6 wheel">
                 <div id="chart"></div>
             </div>
@@ -32,11 +32,17 @@
             <div class="col l6 question">
                 <div id="question">
                     <h1></h1>
+                    <!--p tag that displays the error message if the pirate form is left blank-->
+                    <p id="error"></p>
+                    <!--pirate form-->
                     <form id="pirate-form">
+                        <!--asks user to input a phrase-->
                         <label for="pirate-phrase">Ask Cap'n Covid To Translate Something Into Pirate</label>
                         <br>
+                        <!--input with placeholder-->
                         <input type="text" placeholder="yo ho ho" id="pirate-phrase">
                         <br>
+                        <!--submit button-->
                         <input id="button" type="submit" value="drink up, me hearties">
                     </form>
                 </div>
