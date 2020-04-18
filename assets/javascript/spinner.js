@@ -1,3 +1,7 @@
+
+//hides the pirate input form
+$("#pirate-form").hide();
+
 var padding = {top:20, right:40, bottom:0, left:0},
             w = 500 - padding.left - padding.right,
             h = 500 - padding.top  - padding.bottom,
@@ -12,10 +16,10 @@ var padding = {top:20, right:40, bottom:0, left:0},
         //http://osric.com/bingo-card-generator/?title=HTML+and+CSS+BINGO!&words=padding%2Cfont-family%2Ccolor%2Cfont-weight%2Cfont-size%2Cbackground-color%2Cnesting%2Cbottom%2Csans-serif%2Cperiod%2Cpound+sign%2C%EF%B9%A4body%EF%B9%A5%2C%EF%B9%A4ul%EF%B9%A5%2C%EF%B9%A4h1%EF%B9%A5%2Cmargin%2C%3C++%3E%2C{+}%2C%EF%B9%A4p%EF%B9%A5%2C%EF%B9%A4!DOCTYPE+html%EF%B9%A5%2C%EF%B9%A4head%EF%B9%A5%2Ccolon%2C%EF%B9%A4style%EF%B9%A5%2C.html%2CHTML%2CCSS%2CJavaScript%2Cborder&freespace=true&freespaceValue=Web+Design+Master&freespaceRandom=false&width=5&height=5&number=35#results
 
         var data = [
-                    {"label":"HOROSCOPE",  "value":1,  "question":"ENTER YOUR BIRTHDAY FOR A DAILY HOROSCOPE"}, 
+                    {"label":"ANIMAL BLEPS",  "value":1,  "question":function() {animalBlep()}}, 
                     {"label":"DAD JOKES",  "value":1,  "question":function() {dadJoke()}},
-                    {"label":"PIRATE TRANSLATOR",  "value":1,  "question":"ASK CAP'N COVID TO GIVE YOU A TRANSLATION"}, 
-                    {"label":"CAT GIFS",  "value":1,  "question":"HERE'S YOUR CAT GIF OF THE DAY"}, 
+                    {"label":"PIRATE TRANSLATOR",  "value":1,  "question":function() {pirateTranslation()}}, 
+                    {"label":"CAT GIFS",  "value":1,  "question":function() {catGif()}}, 
                  
         ];
 
