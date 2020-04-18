@@ -12,7 +12,6 @@ text{
 
 /* formatting for the wheel */
 #chart{
-
     margin-left: 40px;
     background-color: white;
 }
@@ -48,4 +47,8 @@ text{
     margin-top: 50px;
     border: solid 5px;
     border-color: rgb(255, 127, 14);
+}
+
+h6 {
+    color: rgb(31,119,180);
 }
