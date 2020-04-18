@@ -27,6 +27,7 @@ Anyone who wants to be entertained or is bored due to quarantine.
 - Dad jokes
 - cat gif
 - pirate translator (requires user input of what they want translated)
+- animal bleps
 
 ### Rough breakdown of tasks
 
