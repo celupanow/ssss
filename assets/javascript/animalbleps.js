@@ -1,6 +1,7 @@
 // Need to change name of div from cats to something else
 // Recommend setting a max image width
-
+function animalBlep(){
+  $('#question h1').empty();
 var originalURL = "https://mlem.tech/api/randommlem";
 var queryURL = "https://cors-anywhere.herokuapp.com/" + originalURL
 
@@ -21,9 +22,12 @@ $.ajax({
     
   var animalImage = $('<img>');
   animalImage.attr('src', imageURL);
+  animalImage.attr('height', 300);
+  animalImage.attr('width', 300);
 
-  $('#cats').append(animalImage);
+  animalImage.appendTo('#question h1, .animalblep');
   
 }).fail(function(jqXHR, textStatus) { 
   console.error(textStatus)
 });
+}

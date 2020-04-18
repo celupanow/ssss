@@ -29,7 +29,7 @@ text{
 }
 
 /* formatting for the results grid beneath the wheel */
-.results {
+.dadjoke, .catgif, .animalblep, .piratephrase {
     border-top: solid 5px;
     border-color: rgb(255, 127, 14);
     margin-top: 20px;
