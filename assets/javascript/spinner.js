@@ -13,7 +13,7 @@ var padding = {top:20, right:40, bottom:0, left:0},
 
         var data = [
                     {"label":"HOROSCOPE",  "value":1,  "question":"ENTER YOUR BIRTHDAY FOR A DAILY HOROSCOPE"}, 
-                    {"label":"DAD JOKES",  "value":1,  "question":"HERE'S YOUR DAD JOKE OF THE DAY"},
+                    {"label":"DAD JOKES",  "value":1,  "question":function() {dadJoke()}},
                     {"label":"PIRATE TRANSLATOR",  "value":1,  "question":"ASK CAP'N COVID TO GIVE YOU A TRANSLATION"}, 
                     {"label":"CAT GIFS",  "value":1,  "question":"HERE'S YOUR CAT GIF OF THE DAY"}, 
                  
