@@ -57,3 +57,17 @@ h6 {
     height: 300px;
     width: 300px;
 }
+
+input {
+    border: solid 1px;
+    color: rgb(31, 119, 180);
+}
+
+#pirate-phrase {
+    border: solid 1px;
+    color: rgb(31, 119, 180)
+}
+
+#button {
+    background-color: rgb(255, 127, 14)
+}
