@@ -5,7 +5,7 @@
  
 <h3 align="center">Stay Safe, Stay Sane</h3>
 <p align="center">
-The user can spin a wheel that will return a dad joke, a cat gif, etc.
+A lighthearted random fun generator to entertain people in these trying times. The user can spin a wheel that will return a dad joke, a cat gif, etc.
 The user can also enter a phrase to be translated into pirate speech.
 <br />
 <br />
@@ -43,7 +43,7 @@ The user can also enter a phrase to be translated into pirate speech.
 ### Built With
 * [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Bootstrap](https://getbootstrap.com/)
+* [](https://getbootstrap.com/)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [jQuery](https://jquery.com)
 * [AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
@@ -168,5 +168,5 @@ Anyone who wants to be entertained or is bored due to quarantine.
 - Research APIs
 - Build first working API
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTk4MzkzNF19
+eyJoaXN0b3J5IjpbNjE0NTczMTAyXX0=
 -->
