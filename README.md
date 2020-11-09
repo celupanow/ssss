@@ -43,11 +43,11 @@ The user can also enter a phrase to be translated into pirate speech.
 ### Built With
 * [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [](https://getbootstrap.com/)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Materialize](https://getbootstrap.com/)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [jQuery](https://jquery.com)
 * [AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
-* [ssss API](https://developers.ssss.com/)
+* [Animal Blep API](https://developers.ssss.com/)
 
 <!-- GETTING STARTED -->
 
@@ -168,5 +168,5 @@ Anyone who wants to be entertained or is bored due to quarantine.
 - Research APIs
 - Build first working API
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0NTczMTAyXX0=
+eyJoaXN0b3J5IjpbLTEzNjk3MDcxNTJdfQ==
 -->
