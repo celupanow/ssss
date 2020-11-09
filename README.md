@@ -94,6 +94,13 @@ Project Link: [https://github.com/celupanow/ssss](https://github.com/celupanow/s
 
 * [GitHub Pages](https://pages.github.com)
 
+## Team Members
+
+ - Alex Jarvis
+ - Christina Lupanow
+ - Justin Lambeth
+ - Shianne Taylor
+
 <!-- MARKDOWN LINKS & IMAGES -->
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -123,47 +130,6 @@ Project Link: [https://github.com/celupanow/ssss](https://github.com/celupanow/s
 [linkedin-url]: https://linkedin.com/in/celupanow
 
 [product-screenshot]: images/screenshot.png
-
-
-
-
-
-
-# Stay Safe, Stay Sane (SSSS)
-
-AKA Random Fun Generator
-
-## Team Voldermort
-
-- Alex Jarvis
-- Christina Lupanow
-- Justin Lambeth
-- Shianne Taylor
-
-### Project Description
-
-The user can spin a wheel that will return a dad joke, a cat gif, etc.
-The user can also enter a phrase to be translated into pirate speech.
-
-### Project Goal
-
-A lighthearted random fun generator to entertain people in these trying times.
-
-### Target Audience
-
-Anyone who wants to be entertained or is bored due to quarantine.
-
-### APIs to be used
-
-- Dad jokes
-- cat gif
-- pirate translator (requires user input of what they want translated)
-
-### Rough breakdown of tasks
-
-- Look into front end framework, Bootstrap, Materializer, etc.
-- Research APIs
-- Build first working API
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTk0NDYwNV19
+eyJoaXN0b3J5IjpbLTU3ODA4NDYwOV19
 -->
