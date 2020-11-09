@@ -48,9 +48,9 @@ The user can also enter a phrase to be translated into pirate speech.
 * [jQuery](https://jquery.com)
 * [AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 * [Animal Blep API](https://mlem.tech/api/randommlem)
-* [Dad Jokes API]()
+* [Dad Jokes API](https://icanhazdadjoke.com)
 * [Giphy API](https://developers.giphy.com/)
-* [Pirate Translator API]()
+* [Pirate Translator API](https://piratespeak.p.rapidapi.com)
 
 <!-- GETTING STARTED -->
 
@@ -171,5 +171,5 @@ Anyone who wants to be entertained or is bored due to quarantine.
 - Research APIs
 - Build first working API
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDU0NjIxN119
+eyJoaXN0b3J5IjpbLTg2MzYzMDc0OF19
 -->
