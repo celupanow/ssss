@@ -58,20 +58,16 @@ The user can also enter a phrase to be translated into pirate speech.
 To get a local copy up and running follow these simple steps.
   
 ### Installation
-1. Get a free API Key at https://developers.ssss.com/
 
-2. Clone the repo
+1. Clone the repo
 
 ```sh
 
 git clone https://github.com/celupanow/ssss.git
 
 ```
-3. Enter your API in config.js
+2. Open the index.html pages in your browser.
 
-```JS
-var config = "ENTER YOUR API";
-```
 <!-- ROADMAP -->
 
 ## Roadmap
@@ -85,8 +81,6 @@ See the [open issues](https://github.com/celupanow/ssss/issues) for a list of pr
 ## Contact
 
   
-
-Christina Lupanow - christina@christinalupanow.com
 
   
 
@@ -171,5 +165,5 @@ Anyone who wants to be entertained or is bored due to quarantine.
 - Research APIs
 - Build first working API
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MzYzMDc0OF19
+eyJoaXN0b3J5IjpbMTEwNTk0NDYwNV19
 -->
