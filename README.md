@@ -127,9 +127,9 @@ Project Link: [https://github.com/celupanow/ssss](https://github.com/celupanow/s
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 
-[linkedin-url]: https://linkedin.com/in/celupanow
+[linkedin-url]: https://www.linkedin.com/in/christinalupanow
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODA4NDYwOV19
+eyJoaXN0b3J5IjpbMTU1Nzk4NTAyNywtNTc4MDg0NjA5XX0=
 -->
